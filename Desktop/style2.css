@@ -1,0 +1,63 @@
+div {
+    height:100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid rgb(192, 155, 155)
+}
+
+#container {
+    width:1200px;
+    height:400px;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    
+}
+
+
+#box1 {
+    position: relative;
+    
+#box2 {
+    position: relative;
+    
+}
+#box3 {
+    position: relative;
+    
+}
+#box4 {
+    position: relative;
+    
+    
+}
+#box1 {
+    margin-right:100px;
+}
+#box2 {
+    margin-right:100px;
+}
+#box3 {
+    margin-right:100px;
+}
+#box4 {
+    margin-right:100px;
+}
+
+
+
+
+
+
+div {
+    height:100px;
+    width: 100px;
+    background-color:aqua;
+    display:inline-block;
+}
+body {
+    background-image: url("cat_photo.jpg");
+    background-size:cover;
+}
+    
+

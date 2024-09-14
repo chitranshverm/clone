@@ -1,0 +1,28 @@
+#box1 {
+    position: relative;
+    left:250px;
+}
+#box2 {
+    position: relative;
+    left:200px;
+}
+#box3 {
+    position: relative;
+    left:150px;
+}
+#box4 {
+    position: relative;
+    left:100px;
+}
+#box1 {
+    margin-right:100px;
+}
+#box2 {
+    margin-right:100px;
+}
+#box3 {
+    margin-right:100px;
+}
+#box4 {
+    margin-right:100px;
+}
